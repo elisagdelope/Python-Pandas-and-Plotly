@@ -1,6 +1,7 @@
-# Data analysis with Jupyter Notebook, Pandas and Plotly
+# Data wrangling & analysis with Jupyter Notebook, Pandas and Plotly
 
-## PyLadiesBcn November meetup
+This repo contains material for data wrangling and analysis with Python, including handling jupyter notebooks, pandas and matplotlib packages for data processing and visualization. This material should be useful for practitioners with basic experience in programming languages such as Matlab, R or other programming languages, and/or those having taken already some first steps in Python.
+Credit for this material should go to PyLadiesBcn.
 
 
 # Installation: the environment
